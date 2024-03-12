@@ -24,7 +24,6 @@ class ChatConsumer(WebsocketConsumer):
             "春风拂槛露华浓",
             "若非群玉山头见",
             "会向瑶台月下逢",
-            "测试Gitpython"
         ]
         for i in poetry_list:
             time.sleep(0.5)
